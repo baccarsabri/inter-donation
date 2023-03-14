@@ -2133,6 +2133,7 @@ h6 {
 
 .form-one input[type="text"],
 .form-one input[type="email"],
+.form-one input[type="password"],
 .form-one textarea {
   display: block;
   width: 100%;

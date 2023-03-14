@@ -15,7 +15,7 @@ const Volunteers = () => {
         <Layout pageTitle="Our Volunteers || Azino || Charity React Next Template">
           <HeaderOne />
           <StickyHeader />
-          <PageHeader title="Our Volunte" crumbTitle="Our Volunteers" />
+          <PageHeader title="Our Volunteers" crumbTitle="Our Volunteers" />
           <TeamPage />
           <Footer />
         </Layout>
